@@ -92,7 +92,7 @@ The pipeline runs frame-by-frame in real time. A cumulative score tracks eye clo
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/driver-drowsiness-detection-vit.git
+git clone https://github.com/ketki1202/driver-drowsiness-detection-vit.git
 cd driver-drowsiness-detection-vit
 ```
 
